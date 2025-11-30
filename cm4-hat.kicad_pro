@@ -596,8 +596,8 @@
       "netlist": "",
       "plot": "gerbers/",
       "pos_files": "",
-      "specctra_dsn": "rpi-cm4-base-carrier.dsn",
-      "step": "or.stl",
+      "specctra_dsn": "cm4-hat.dsn",
+      "step": "cm4-hat.stl",
       "svg": "",
       "vrml": ""
     },
