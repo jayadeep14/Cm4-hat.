@@ -1,0 +1,6 @@
+Component,Description,Qty,Estimated Price (USD),Link
+PCB,Custom PCB,1,$150 (without PCBA),JLCPCB
+Ethernet ,RJ45,1,$2,Robu
+Raspberry Pi Compute Module,,1,$80,Robu
+Double USB type A Female Connector ,Double USB type A Female Connector ,1,$2,Robu
+TOTAL ,,,$234,
