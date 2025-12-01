@@ -5,8 +5,13 @@ for this life project , obviously i need money to make it real for my project. i
 # features
 
 • rpi cm4 module
-• Ethernet port 
+
+• Ethernet port
+
 • usb and otg ports
+
 • fuel gauge 
+
 • battery connection 
+
 • 5v booster 
